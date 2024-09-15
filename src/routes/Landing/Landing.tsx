@@ -5,7 +5,7 @@ import Navbar from "../../components/Landing/Navbar/Navbar";
 export default function Landing() {
   return (
     <main className={styles.landingWrapper}>
-      <Navbar />
+      <h1>Hello</h1>
     </main>
   );
 }
