@@ -3,7 +3,7 @@ import { createRoot } from "react-dom/client";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import { GlobalProvider } from "./store/global-context.tsx";
 
-import Landing from "./routes/Landing.tsx";
+import Landing from "./routes/Landing/Landing.tsx";
 
 import "./global.scss";
 
